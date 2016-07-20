@@ -1,0 +1,33 @@
+﻿ul
+
+{
+    list-style:none;
+    padding:0;
+    margin:0;
+    width:500px;
+}
+
+li
+{
+    border:2px solid #808080; background:#eee; padding:5px 10px; color:#000;
+}
+
+span{
+
+    color:black;
+}
+
+
+li span 
+{
+
+    padding-left:10px;
+    cursor:default;
+   
+}
+
+.checked
+{
+    text-decoration:line-through;
+     font-weight: 800;
+}
